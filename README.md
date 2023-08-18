@@ -43,7 +43,7 @@ By harnessing the power of Tableau, this analysis sheds light on crucial insight
 
 Feel free to explore the code and visualizations provided in this repository to gain a deeper understanding of the store sales data analysis.
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact [Anil Singh] at [laseranil03@gmail.com].
 
 Happy analyzing!
 
